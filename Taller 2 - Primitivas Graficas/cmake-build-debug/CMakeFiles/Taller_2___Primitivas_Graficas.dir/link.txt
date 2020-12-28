@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Taller_2___Primitivas_Graficas.dir/main.cpp.o  -o Taller_2___Primitivas_Graficas 

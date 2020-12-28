@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/circunferencia/algoritmos_circunferencia.cpp
+cmath
+-
+../headerFiles/algcircun.h
+/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/headerFiles/algcircun.h
+
+/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/headerFiles/algcircun.h
+algs.h
+/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/headerFiles/algs.h
+
+/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/headerFiles/algs.h
+
