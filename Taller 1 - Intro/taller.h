@@ -1,7 +1,7 @@
 #pragma once
 
-void ej_1();
-void ej_2();
-void ej_3_a();
-void ej_3_b();
-void ej_3_c();
+void ej1();
+void ej2();
+void ej3A();
+void ej3B();
+void ej3C();

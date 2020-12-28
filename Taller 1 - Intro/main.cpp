@@ -29,10 +29,10 @@ int main(int argc, char **argv) {
 void display_ej(int n) {
     switch (n) {
         case 1:
-            glutDisplayFunc(ej_1);
+            glutDisplayFunc(ej1);
             break;
         case 2:
-            glutDisplayFunc(ej_2);
+            glutDisplayFunc(ej2);
             break;
         case 3:
             char opc;
@@ -44,14 +44,18 @@ void display_ej(int n) {
             std::cin >> opc;
 
             switch (opc) {
-                case 'a': glutDisplayFunc(ej_3_a); break;
-                case 'b': glutDisplayFunc(ej_3_b); break;
-                case 'c': glutDisplayFunc(ej_3_c); break;
-                default: glutDisplayFunc(ej_3_a);
+                case 'a':
+                    glutDisplayFunc(ej3A); break;
+                case 'b':
+                    glutDisplayFunc(ej3B); break;
+                case 'c':
+                    glutDisplayFunc(ej3C); break;
+                default:
+                    glutDisplayFunc(ej3A);
             }
             break;
         default:
-            glutDisplayFunc(ej_1);
+            glutDisplayFunc(ej1);
     }
 }
 

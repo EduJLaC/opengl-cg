@@ -15,7 +15,7 @@ void init_ej_3() {
 
 }
 
-void ej_3_a() {
+void ej3A() {
     init_ej_3();
     glColor3f(0.0, 0.0, 1.0);
 
@@ -41,7 +41,7 @@ void ej_3_a() {
     glFlush();
 }
 
-void ej_3_b() {
+void ej3B() {
     init_ej_3();
     glColor3f(0.0, 0.0, 1.0);
     GLint ang = 0;
@@ -70,7 +70,7 @@ void ej_3_b() {
     glFlush();
 }
 
-void ej_3_c() {
+void ej3C() {
     init_ej_3();
     glColor3f(0.0, 0.0, 1.0);
 

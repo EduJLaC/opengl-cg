@@ -1,7 +1,7 @@
 #include <cmath>
 #include <GL/glut.h>
 
-void ej_1() {
+void ej1() {
 
     GLfloat ang = 0.0f, radio = 100.0f, x, y;
 

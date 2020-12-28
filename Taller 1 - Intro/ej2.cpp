@@ -1,7 +1,7 @@
 #include <GL/glut.h>
 #include <iostream>
 
-void ej_2() {
+void ej2() {
     GLfloat L;
     GLint N;
 
