@@ -1,3 +1,0 @@
-/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/edulc/Documents/CompuGrafica/Taller 2 - Primitivas Graficas/cmake-build-debug/CMakeFiles/Primitivas.dir
